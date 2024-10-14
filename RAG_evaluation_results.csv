@@ -1,0 +1,55 @@
+Unnamed: 0,Question,Answer,LLM_answer,ROUGE Score,BLEU Score,Perplexity
+0,can you recommend effective core ab exercises?,"sure! planks, bicycle crunches, and leg raises are great for targeting core muscles. incorporate these exercises into your routine and focus on engaging your core during other workouts too.","Sure! Planks, bicycle crunches, and leg raises are great for targeting core muscles. Incorporate these exercises into your routine, and focus on engaging your core during other workouts too.",1.0,0.9234732618882052,45.05038070678711
+1,how can i incorporate physical activity into my day if i have a busy schedule?,"take the stairs instead of the elevator whenever possible, do simple bodyweight exercises at your desk, park further away from your destination so you have to walk a few extra minutes, take a yoga or pilates class when you have free time, organize a group of friends to do weekly hikes.","* Take the stairs instead of the elevator whenever possible.
+* Do simple bodyweight exercises at your desk.
+* Park further away from your destination so you have to walk a few extra minutes.
+* Take a yoga or pilates class when you have free time.
+* Organize a group of friends to do weekly hikes.",1.0,0.7420749668652956,30.62873649597168
+2,why is physical activity important?,"regular physical activity can help maintain your weight, reduce stress, and improve your heart health. aim for at least 150 minutes of moderate-intensity aerobic exercise, such as brisk walking or swimming, per week.","Regular physical activity can help maintain your weight, reduce stress, and improve your heart health. Aim for at least 150 minutes of moderate-intensity aerobic exercise, such as brisk walking or swimming, per week.",1.0,1.0,10.90630054473877
+3,how can i manage stress and maintain a healthy work-life balance?,"move your body. exercise regularly and engage in physical activities, like walking or biking.","move your body. exercise regularly and engage in physical activities, like walking or biking.",1.0,1.0,43.23746871948242
+4,i have a busy travel schedule. how can i maintain my fitness routine?,"travel can disrupt routines, but it's manageable. pack resistance bands for strength training on the go. opt for bodyweight exercises and explore active options in your travel destinations.","Travel can disrupt routines, but it's manageable. Pack resistance bands for strength training on the go. Opt for bodyweight exercises and explore active options in your travel destinations.",1.0,1.0,123.10690307617188
+5,how can i optimize my nutrition to support my fitness goals?,"focus on balanced macronutrients, such as lean proteins, complex carbs, and healthy fats. adjust calorie intake based on whether you aim to gain muscle or lose fat.","**How can I optimize my nutrition to support my fitness goals?**
+
+Focus on balanced macronutrients, such as lean proteins, complex carbs, and healthy fats. Adjust calorie intake based on whether you aim to gain muscle or lose fat.",0.8307692307692308,0.6556625387827814,17.099990844726562
+6,i'm new to the gym and feeling overwhelmed. where should i start?,"don't worry, starting at the gym can be intimidating, but it's all about taking small steps. begin with a simple full body workout routine that includes exercises like squats, push-ups, and lunges. consistency is key!","Don't worry, starting at the gym can be intimidating, but it's all about taking small steps. Begin with a simple full body workout routine that includes exercises like squats, push-ups, and lunges. Consistency is key!",1.0,1.0,18.954879760742188
+7,how can i improve flexibility?,"flexibility improves with consistency. dynamic stretches before workouts and static stretches after, help. you can also try yoga or pilates. breathe deeply and be patient. over time, flexibility will increase.","Flexibility improves with consistency. Dynamic stretches before workouts and static stretches after, help. You can also try yoga or Pilates. Breathe deeply and be patient. Over time, flexibility will increase.",1.0,1.0,56.203086853027344
+8,how can i increase my running endurance?,gradually increase your running distance each week. mix in interval training and hill sprints. focus on proper breathing and pacing. rest and recovery are equally important for building endurance.,"- Gradually increase your running distance each week.
+- Mix in interval training and hill sprints.
+- Focus on proper breathing and pacing.
+- Rest and recovery are equally important for building endurance.",1.0,0.7503346696430606,34.30804443359375
+9,how do i prevent muscle soreness after a tough workout?,"soreness is normal, but you can manage it. prioritize post workout stretching and cool downs. active recovery like light walking helps. stay hydrated, and consider foam rolling or gentle yoga.","Soreness is normal, but you can manage it.
+
+Prioritize post workout stretching and cool downs.
+Active recovery like light walking helps.
+Stay hydrated.
+Consider foam rolling or gentle yoga.",0.983050847457627,0.8974616751168997,133.05731201171875
+10,can you provide guidance on finding the right fitness program or workout routine for my goals?,"define your goals, whether it's strength, endurance, fat loss, or a combination. research and choose a program aligned with your preferences and time commitment.","1. Define your goals: Determine what you want to achieve with your fitness program. Are you aiming for strength gains, improved endurance, fat loss, or a combination of these?
+2. Research and choose a program: Explore different fitness programs that align with your goals. Consider factors such as workout intensity, time commitment, and equipment availability. Read reviews, consult with fitness professionals, and try out sample workouts to find the best fit for you.",0.4285714285714286,0.15035285626824343,15.682561874389648
+11,can you suggest protein packed snacks post workout?,"of course! after workouts, aim for protein and carbs. options include a protein smoothie, greek yogurt with berries, a turkey or chicken wrap, or almonds with fruit. these aid energy replenishment and recovery.","Sure, here is a suggestion for a protein-packed snack to have after a workout:
+
+**Protein smoothie:**
+
+* 1 scoop of protein powder
+* 1 cup of milk or yogurt
+* 1/2 cup of fruit
+* 1/4 cup of ice
+
+Blend until smooth and enjoy!
+
+Other protein-packed snacks that you can have after a workout include:
+
+* Greek yogurt with berries
+* A turkey or chicken wrap
+* Almonds with fruit
+
+These snacks will help you to replenish your energy stores and aid in muscle recovery.",0.5043478260869565,0.09390009951892381,18.536073684692383
+12,"how can i establish a positive and sustainable approach to fitness and exercise, rather than focusing on quick fixes or extreme regimens?","find a qualified personal trainer, sports medicine specialist, or dietitian who can guide you in achieving your goals. be realistic and patient with yourself. progress takes time and you may not always see results immediately. aim to make small changes over time that are lasting and sustainable.","* Find a qualified personal trainer, sports medicine specialist, or dietitian who can guide you in achieving your goals.
+* Be realistic and patient with yourself. Progress takes time and you may not always see results immediately.
+* Aim to make small changes over time that are lasting and sustainable.",1.0,0.887961253516891,24.936199188232422
+13,i've reached my weight goal. what's next?,"congratulations! transition to a maintenance plan. adjust your calorie intake, focus on strength training, and continue a balanced diet. setting new fitness goals will keep you motivated.","Congratulations! Transition to a maintenance plan. Adjust your calorie intake, focus on strength training, and continue a balanced diet. Setting new fitness goals will keep you motivated.",1.0,1.0,42.95368957519531
+14,how do i prevent overtraining and burnout?,"listen to your body. incorporate rest days, prioritize sleep, and include active recovery in your routine. vary your workouts to prevent monotony, and don't hesitate to take breaks when needed.","1. Listen to your body.
+2. Incorporate rest days.
+3. Prioritize sleep.
+4. Include active recovery in your routine.
+5. Vary your workouts to prevent monotony.
+6. Don't hesitate to take breaks when needed.",0.8787878787878788,0.566093453170784,15.149965286254883
