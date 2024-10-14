@@ -11,8 +11,8 @@ we taken a dataset that contains questions and answers for building RAG
 8. now model will return the most relavent answer improving the retrival.
 
 RAG Evaluation
-I preared a validation dataset that contains question and actual answer and LLM model generated answer.
-Now we are evaluating the model generated answer with the actual answer.
+I preared a validation dataset that contains question and actual answer and LLM generated answer.
+Now we are evaluating the RAG model performance by comparing LLMgenerated answer vs actual answer.
 here we used ROUGE,BLEU and perplexity to evaluate the model performance since the datset is q&A and the answers are LLm generative model generated responses based on the given q&A we use this 3 techniques, If the dataset is labelled data then we can use Precision, Recall with F1 scores.
 
 
